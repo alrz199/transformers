@@ -1,4 +1,4 @@
-In order to see the output of the training phase please click on the following links:
+In order to see the output of the training phase please more clearly, click on the following links:
 
 transformer classifier:
 
